@@ -1,5 +1,5 @@
 .top-container{
-    background-color: #f3d8cb;
+    background-color: rgb(200, 223, 215);
    
 }
 body{
@@ -7,22 +7,25 @@ body{
 }
 h1{
 margin-top: 0;
-font-size: 100px;
+font-size: 200px;
+font-family: 'Pacifico', cursive;
+color: rgb(52, 145, 221);
+
+
 }
 p{
     font-size: 75px;
+    font-family: 'Poppins', sans-serif;
 }
-.middle-container{
-    height: 200px;
-    width: 200px;
-    background-color: burlywood;
-    border: solid 20px;
-   margin:0 0 0 255px ;
+.mountain
+{
+    
+    height: 1000px;
+    width: 3000px;
+    position: relative;
+    left: 900px;
 }
-.bottom-container{
-    height: 200px;
-    width: 200px;
-    background-color: rgb(167, 113, 167) ;
-    border:solid 10px;
-    margin-left: 490px;
+.C1{
+    height: 600px;
+    width: 800px;
 }
